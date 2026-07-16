@@ -4,7 +4,6 @@
 ![pandas](https://img.shields.io/badge/pandas-Data%20Wrangling-150458?logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-Modeling-F7931E?logo=scikitlearn&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-blue)
 
 End-to-end data cleaning & feature engineering pipeline on a **raw, uncleaned laptop price dataset** scraped from an e-commerce platform. This project turns a messy 12-column dataset into a fully numeric, ML-ready feature set — with every preprocessing decision backed by explicit statistical and domain reasoning.
 
